@@ -1,0 +1,101 @@
+<header> <!--en tête-->
+        <h1 id="haut">Orange : Une société internationale</h1>  <!-- Titre principale-->
+        <nav>  <!--Menu de navigation-->
+            <div class="dropdown">
+                <button>
+                    <h2>Menu de navigation</h2>
+                </button>
+                <ul class="content espace">
+                    <li class="link"><a href="#">Accueil</a></li>   <!--Accueil + article 1-->
+                    <li class="link"><a href="./pourquoi_rejoindre_orange.html">Pourquoi rejoindre Orange aujourd’hui ?</a></li>  <!--lien vers Article 2-->
+                    <li class="link"><a href="./les_actualites_chez_orange.html">Orange, une société qui bouge avec son temps</a></li>  <!--lien vers Article 3-->
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="main">
+        <article>  <!--Article 1-->
+            <h2 class="espace">Orange : Un acteur clé des télécommunications et de l’innovation numérique</h2>  <!--Titre de l'article 1-->
+            <section class="partie_image">
+                <img class="image_principale" src="./media/images/drapeau_francais.png">
+            </section>
+            <section class="partie font">
+                <h3 class="espace font_titre" id="Orange : Une image internationale">Orange : Une image internationale</h3>   <!--première partie-->
+                <p class="espace">Orange est la plus grande société française de télécommunications et fait partie des principaux opérateurs dans le monde. Elle se situe à la 13ème place avec 44,1 Mrd € de chiffre d'affaires.
+                Orange opère dans 26 pays différents situés en Europe, en Afrique et au Moyen Orient. Avec plus de 298 M de clients dans le monde et 137 mille salariés.
+                Internet pose la commercialisation d'équipements et de services de télécommunication pour les particuliers, les professionnels et les entreprises : téléphonie fixe, téléphonie mobile, service sur internet, télévision, service de cybersécurité et télésurveillance, etc…
+                </p>
+                <p class="espace">
+                Historiquement, France Télécom, société précédente d’Orange, voit le jour le 1er janvier 1988 pour répondre à une directive européenne. Cette directive cherchait à créer un marché plus compétitif et bénéfique pour les entreprises et les consommateurs.
+                En 2000, France Télécom cherchant à s’agrandir, rachète de nombreuses sociétés, devenant ainsi le quatrième opérateur mondial par sa taille. Parmi ses sociétés, nous retrouvons Orange plc, pour un coût total estimé à 39,7 milliards d’euros.
+                Depuis le 1er juin 2006, France Télécom veut commercialiser l'ensemble de ses produits dans le monde sous la seule marque commerciale Orange qui devient donc l’unique marque de France Télécom pour la téléphonie fixe et internet dans le monde. En février 2012, la ligne fixe France Télécom change de nom et devient la ligne fixe Orange. À ce moment tous les services d'Orange France portent le même nom. Toutefois, le nom juridique de l'entreprise, restent France Télécom SA.
+                Le changement complet du nom est finalement voté lors de l'assemblée générale du 28 mai 2013. Le 1er juillet 2013, France Télécom devient définitivement Orange.
+                </p>
+            </section>
+            <section class="partie font">
+                <table class="espace">   <!--tableau-->
+                    <h3 class="espace font_titre" id="Les activités d'Orange dans le monde">Les activités d'Orange dans le monde</h3>  <!-- Titre du tableau-->
+                    <tr><th class="espace">Europe</th><th class="espace">Afrique et Moyen-Orient</th></tr>  <!--deux parties du tableau-->
+                    <tr><td>Belgique</td><td>Botswana</td></tr>
+                    <tr><td>Espagne</td><td>Burkina Faso</td></tr>
+                    <tr><td>France</td><td>Cameroun</td></tr>
+                    <tr><td>Luxembourg</td><td>Centrafrique</td></tr>
+                    <tr><td>Moldavie</td><td>Côte d'Ivoire</td></tr>
+                    <tr><td>Pologne</td><td>Égypte</td></tr>
+                    <tr><td>Roumanie</td><td>Guinée Bissau</td></tr>
+                    <tr><td>Slovaquie</td><td>Guinée Conakry</td></tr>
+                    <tr><td></td><td>Ile Maurice</td></tr>
+                    <tr><td></td><td>Jordanie</td></tr>
+                    <tr><td></td><td>Liberia</td></tr>
+                    <tr><td></td><td>Madagascar</td></tr>
+                    <tr><td></td><td>Mali</td></tr>
+                    <tr><td></td><td>Maroc</td></tr>
+                    <tr><td></td><td>République Démocratique du Congo</td></tr>
+                    <tr><td></td><td>Sénégal</td></tr>
+                    <tr><td></td><td>Sierra Leone</td></tr>
+                    <tr><td></td><td>Tunisie</td></tr>
+                </table>
+            </section>
+            <section class="partie font">
+                <h3 class="espace font_titre" id="Stratégies et perspectives d’avenir d’Orange">Stratégies et perspectives d’avenir d’Orange</h3>  <!--deuxième partie-->
+                <div class="image_cadenas">
+                    <p class="espace">Pendant les prochaines années, Orange cherche à approfondir et croître ses activités en Afrique et au Moyen-Orient. De plus, un de ses buts est de devenir un acteur plus important dans le monde de la cybersécurité.
+                    D’après Orange, « Les conséquences des cyberattaques de plus en plus nombreuses peuvent être redoutables. » D’où la mise en place d’un système de défense nommé « Orange Cyberdefense ».
+                    </p>
+                    <img id="cadenas_bleu" src="./media/images/cadenas_bleu.jpg">
+                    <p class="espace">
+                    Orange fait partie de ces entreprises qui s’engagent à lutter contre le changement climatique en réduisant les émissions de gaz à effet de serre produites par leurs actions. Ce projet consiste à réduire de 90 % les émissions de CO2 d’ici 2040 et de compenser les 10 % restant grâce à des puits de carbone naturels.
+                    Orange s’engage également dans des projets de restauration ou de protection d’espaces naturels.</p>
+                </div>
+            </section>
+            <section class="partie last font">
+                <div>
+                    <h4>Crédit images :</h4>
+                    <p><a href="https://pixabay.com/fr/users/clker-free-vector-images-3736/" target="_blank"><u>Image du drapeau français</u></a></p> <!--renvoi vers partie 1-->
+                    <p><a href="https://pixabay.com/fr/users/thedigitalartist-202249/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4610993" target="_blank"><u>Image cyber sécurité</u></a></p>  <!--renvoi vers le tableau-->
+                </div>
+                <div>
+                    <h4>Webographie :</h4>
+                    <p><a href="https://fr.wikipedia.org/wiki/Orange_(entreprise)" target="_blank"><u>Wikipédia – Histoire de la société Orange</u></a></p>
+                    <p><a href="https://www.orange.com/fr/groupe/nous-connaitre/qui-sommes-nous" target="_blank"><u>Site officiel Orange – Qui sommes-nous ?</u></a></p>
+                </div>    
+            </section>
+        </article>  <!--fin de l'article 1-->
+        <aside class="right font">   <!--partie à mettre sur le côté avec un renvoi pour chaque parties + un renvoi en haut de la page-->
+            <h3 class="espace">Navigation</h3>
+            <p class="link"><a href="#Orange : Une image internationale">Orange : Une image internationale</a></p> <!--renvoi vers partie 1-->
+            <p class="link"><a href="#Les activités d'Orange dans le monde">Les activités d'Orange dans le monde</a></p>  <!--renvoi vers le tableau-->
+            <p class="link"><a href="#Stratégies et perspectives d’avenir d’Orange">Stratégies et perspectives d’avenir d’Orange</a></p>  <!--renvoi vers partie 2-->
+            <p class="hautdepage"></p>
+            <p class="link"><a href="#haut">Vers le haut de page</a></p>  <!--renvoi vers le haut de la page-->
+        </aside>
+    </div>
+    <footer>  <!--pied de page-->
+        <p>
+            <i>Site créé par Yanel MOISSON</i>
+            <br>
+            Pour me contacter : <a href="mailto:yanel.moisson@etu.unilim.fr?subject=J'ai visité votre site">yanel.moisson@etu.unilim.fr</a> <!--lien pour m'envoyer un mail-->
+            <br>
+            Lien vers le site d'Orange : <a href="https://www.orange.fr/portail" target="_blank">Orange.fr</a>  <!--lien qui renvoie vers le site officiel d'Orange-->
+        </p>
+    </footer>
